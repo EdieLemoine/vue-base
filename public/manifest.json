@@ -1,6 +1,6 @@
 {
-  "name": "vue-template",
-  "short_name": "vue-template",
+  "name": "canvas-test",
+  "short_name": "canvas-test",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

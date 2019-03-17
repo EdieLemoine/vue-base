@@ -1,14 +1,15 @@
 import '@/services/filters';
-import '@/services/properties';
+// import '@/services/properties';
+import '@/services/plugins';
 import '@/services/registerServiceWorker';
-import '@/services/vuelidate';
-import router from '@/services/router';
-import store from '@/services/store';
-import Vue from 'vue';
+// import '@/services/vuelidate';
+// import router from '@/services/router';
 import App from './App.vue';
+import Vue from 'vue';
+import store from '@/services/store';
 
 new Vue({
-  router,
+  // router,
   store,
   render: (h) => h(App),
 }).$mount('#app');

@@ -9,7 +9,7 @@ import Game from '@/views/Game';
 
 export default {
   name: 'App',
-  components: {Game},
+  components: { Game },
 };
 </script>
 
